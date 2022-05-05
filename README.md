@@ -9,7 +9,7 @@ El proyecto trata de poder hacer reservaciones por día, por hora, por mesa y cu
 
 
 ## 🛠 Tecnologías utilizadas
-HTML, CSS, Livewire, Alpine.js, Tailwind CSS, Laravel 9, PHP 8, MySql.
+HTML, CSS, Livewire, Alpine.js, Tailwind CSS, Laravel 9, Laravel Breeze, PHP 8, MySql.
 
 
 
