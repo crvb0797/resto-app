@@ -1,64 +1,30 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# 🍕 Aplicación de reservaciones para restaurantes
 
-## About Laravel
+Esta aplicación fue desarrollada para un pequeño restaurante dentro de mi comunidad, esto como proyecto de practica de Laravel y aprendizaje de Laravel breezer ⭐.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+El proyecto trata de poder hacer reservaciones por día, por hora, por mesa y cupo de personas.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🛠 Tecnologías utilizadas
+HTML, CSS, Livewire, Alpine.js, Tailwind CSS, Laravel 9, PHP 8, MySql.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## 📷 Algunas capturas del proyecto
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+![Pantalla de inicio](https://lh3.googleusercontent.com/GNTqnaOZ7nr4ViiAUIjf1T_K5SMb1n5Id31V8atVRbY5Yuh6_y0TLOY_FWCvzyQ31J7jJk1YwollxqAd0lECM8OZiqmTP-xKTnuYH9WTpRkxHf_ghSenR0RyjODakalYfF8kgPmduIQKKNNAluUVz7oIWTyoxkBA2aKO7LO4rytEaYddilF17fpTK7JLme2EQpP1jrGXgGf231YcIJJ9aK5rcCPt4VlXKKhI0NXj3qtjs_3wW_-fSmJ22OmXP5hIf0-3j8bcSSZA61I2MiMSFKV5jMXCn_fn2RUYg87COnc0y38WU8vDfY-bCCW50I7Wv9JywYlHrW6dQQOGR8Fpwas73bhloJxORMQk6KOf7Rjc7iRv3T1Rr-VeD99l7PPVy126wou_L9vGrkkuEfNt6yaDbXZ6qfiGQj64Ro5PfOxqb4kZskJtW1jb7AOfGcHkDhqyj76TLxGI4x4ZXWnHDC0H86YerXABh2OIcdIMV0y_4cKvqZcWU-4G2XMn7E94cP_vuQl-zEtXJ_qtUfmvkZZVstWdZ-lzB98puMmlkfM_aRtNDlCoX-c9Vy-tniO5iZ7GBYdURwHAve4EWApBs-APQ8U55izCWDqz8HOWKLlGLTK2ri_3zNxPYIDSJJ-L-VbTKN-TG4s8g4R4j-RO-Y8I1gUs9UZFSZRuX-EIyZRIFgqPkbNq6dHRLrGkKfSDHeEmmdludOceiQ-Hp72VIEa6g0wEh_TnVOE5Aw4lZw3DXtBiqgb3IzCdem83AWs-2bJuHdW-ca3Yn-d9tWZ7Y2iwid3GJA63ewfx=w1280-h414-no?authuser=0)
 
-## Contributing
+![Pantalla de menú](https://lh3.googleusercontent.com/es2G-1z30-Qa37YXIYgZv2NgwmUnS35mWZDzLt6udCn-aYdnJr9hZfK3mrMu2PrU5uL-rTAkmFWFTHeJrFPikIkWw17H4b-nh7ca1qPQWW2l83GAininbXKheY6Ua51-QEBgrzsCTC9dPivJskZSGXUa4CYIVG0ZJuqHbphp_heQo96NFUkrxKHq1nlp1Fceelxn_qglXXbx69OfuCw6QGj0m9z-8lkiMnsv7ccwyIXTxHJ79koTEV5H7lVtp0ETfkaS_zlH1I7h13NlJ-lqt_hjO-70-YKAJbHFfI9m5tiLViUonY6EckDxhxZCphHvhLlSCG6FFKWrisVIZGiIhOh4wRQOEMp3zzePcOGdG2MHKtxwd89ePbHQJ0QDfy4NKGxplZHA6-YUwVnINOIqpRSnRPfqfvWZCbnoXpHoMgrxllBWGsp-kTzpkci-8l03aUIMdj0WLqhPbkYJJix8XM6g4bo69t5e61_3oyWcLNGr9RHeQDppXVcGJs8oj-lN53n_9IOvSglACvyVSxL4KfrpPKmnQus8WRUXfOhv2XCVUSI2ewA_cBpZY6V42ywfwwCNAVcHkPwO9nlg6LMb9_5SBAMFUdK_3GXEIhoZjKL4y9GHthnvghlRT9_S-QAmBEy-oJrQgYDX4N7U3ZN2YfZ5JKOWRqc3AcK6nuMv_5siReRfiKXTW0bnFTqSWBaOke3QTC07GtCezpJBE8X1-hDjjzl7FhaVQaWvhGGMudqaV0xHS2nTDNgz8-mJzHTWI7yCo8vSekpdDpYd6pVWtNKXaKgCuORXU-Wx=w1280-h414-no?authuser=0)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Pantallas de reservación](https://lh3.googleusercontent.com/slYnv-tXiyj643cky6sSQOm_VvwXpR8RtRLKVLdv61FkHUwGKWQZYFmJGTtfnzbkrSGv_j0lLyY7P58VT7AyuUFgCj7jRbux_rUk--8QEe1rkgXMXaTwbdekz9mQRqOlXJAGk_ZSWVFbevs8aDS7fyk_WR82mHI5aU9vuKOp73GkJqIemUbSakdcrGh7OjinXnRM_kJFva1hukOcLqB6eje5Vj-33fqT1f2GsMlEMSNyUKkhV0dmK1Wtzsuo_41yfPMSWCN8UQ9VcVtfsHRLQkxbXwWlxdri2-fyTlOC1arDN8wNBZlTedWNFlsNiDEqi3UP1pa-OJJ1bTMuKWE-zUlX0lRNPuX3wfDiIjtSqM-MDjtpFSnlPe4gugvHc_0swXOjJsj29dxVYYpM0NUP6fLvwIG54P_OtVV4Jwv4Q1BjxzN12wbgAeXb46_5-MSHpW9gOt-Sw61NRHFxygNTjAmYgz2ZtuVfJR78uJlRyCwqeq59DrL61iYV6vPU2T-WqpbpaoQcd5u00IS8rWWPtzp5hrk-3WV7_o32glLr9dk5RJYKmj6ce8k-8VLbplBtqT1F94i88Yj837VT6GxPYBhM6KFicU0FCbFxyqFIQXBPUa2_7kz4oCMFU9dKALcQKZgZrmL1MsOK1025dE7Bs3SVyY8IUoIRLWQS6_E0IAe78KxdmpGPHKYBmZ2fVMBy3HApLfJxjiWYOam1GTEVBQAsYTPC_l6UVbpDat3w3B9mXbjxOhPxs7Wrg1TKhbDxXlawTUwVQu4_Fyh94WXyi7yBhXnl8JoQnGSo=w1280-h582-no?authuser=0)
+![Pantallas de reservación](https://lh3.googleusercontent.com/We9BM9gQ0XncrLhCp7_UzePY_Lw0SqZBPxzWHOD_CeRNhk5BNyzRzYhsQKmeI5Rr_ASo2ylXwRrIz0zykSqKZXs5CTNz9riG7MHjzkTLf--vkN9DbmN-CkelEPM2qDLC-nZS8faM_hNxEAC-MaKv0La9eze0oWUyoUo9KX2j7i6QHpbwDzm0dMQ-aSrD7zjJ60sJ6blQsX2wHFeI6gxM7aDlHtNoBOBCF1FA0mvStR8qzP3RCiBoWlS4NhGQviLArPdGPhrQTJM8XFmZR2yerCIVidbMeucLxAPIeElYHij-ZNxu_1FR4L7vfXbgmXc-S31_cs3T83jO5kiZID_0vmeU6IWzlS2Ja9YOjJ9QFImIY2rREe5MbK4snbNgp1Nigge3PqcNParZ24ldk0N_3QhAvjOWFYq7VgRTxZx7fd4RbBmVF8WhPsLj-ZEUIxYPRbxw9_QUfnKCeh4gO2z91wWHVaUJdaRAprAR7lUuaX5H23bGqErggzMyYaHFP08yMkQWSDQaD_tCcAOq86Aomg6SfAqaXHyzgndanr18dn9S6-NlaGk1K76XzJVgC9hv-RVYxrl-GowDcsuy6Hfm3L2rD2SUbbU9EjtCI3DD1luTecX8L5rV5MamQHqr6Y48DLWAPSWbgEFfpGN-5E8C127dv3YalPxwqy2T2szZf3VUvS7odyQhXfFimovewDnu89d1ExrZ-Q4PggEJbGRtXPVSiO0ztQMx8Q7nwWP_BJuvalFQ70xqJLLNKfHG6coSxjtoZC8HZ-FxOoI_AmU8CCg8p7QZUPh_OM2Q=w1280-h582-no?authuser=0)
+![Pantallas de reservación](https://lh3.googleusercontent.com/kHm2RjU6FIlhpOdSnnCjtenMPGHQGONqjoOQ2PGqZovE1igVN2EQu2PXMtp-kCPKVsmXZNgL2pJpSeNOdFkjM45tIVXWeYUqjO5adPVopm7aGhRV78X3YxoMxiX6TlWYRit9jnEFwMnqRgsUlIKOQUhhthy0bfrRsYlWKvlfvZ6EEGttEXosiT3s_M5UX6UbKidr7g0EmzQIFC22zLyZgPcbJUhAGEflCPnOfH3CLJmWolk0ZDiFaqf1uq9Csar8Jz4rJ1Irl-KKt9RPq28lH-Z_ot9AU9DgGEdHz0q9tMFaq5NBwy9r-6d63ozy0gGGehhlVFT0zxc9vNE76f-66jqwO_yxaPhYRMC9xzqdr_yDj_3m5UGSthrF0Uew3n9R9cGwomM7Rp1Rj92lydgnFriKKCSzQGczHlfuwvJhsBoC6tZVyQMcahi-SoKMyjZ7r4K9c2dOzMLXHjvrwnnTCtaqr6-wCnzaPV8X2fy0g28JlhNVlVDick4rdJjmjHrVTnnEqC5oE1cubeGUur24AKCi8SKIn-dnPTmN_CtvBSkv7J_-dRWP2xN9JDY8t72XNBXCKJvDKGTrRMa2FX0TBQ_RnVZanVbIx2_AGWe-5VsHp59YZrPkvYlS-nU0N1yIcIxH3r5rWSg3jRTdz4P2tBT1uxCAXFtgTHyw3Q0ci07ulNRHwtefbjqbBG0gwCpbJ34xI3oEn13JVR8YPr4Kac_1Y_hUaUZCK1igdJMdGKOLOeIkG8vZldedd9fujFDTVZ1B8Sf0cv0fO2nkrZY9qE0bZqNyk2N5pV-2=w1280-h582-no?authuser=0)
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Contribuciones
+¡Las contribuciones son siempre bienvenidas 💪🏻!
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
